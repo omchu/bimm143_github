@@ -4,8 +4,8 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 4: Introduction to R
 - Class 5: Data visualization with ggplot2
-- Class 6: 
-- Class 7:
+- Class 6: [R functions]()
+- Class 7: [Machine learning for Bioinformatics 1]()
 - Class 8: [code](https://github.com/omchu/bimm143_github/blob/main/class08_mini_project/class08.qmd)
 - Class 9:
 - Class 10:
