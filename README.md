@@ -26,7 +26,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 15: Essential UNIX for bioinformatics
 
-- Class 16: [Analyzing sequencing data in the cloud and PCA]()
+- Class 16: [Analyzing sequencing data in the cloud and PCA](https://github.com/omchu/bimm143_github/blob/main/class16/class16.md)
 
 - Class 17: [Vaccination Rate Mini-Project](https://github.com/omchu/bimm143_github/blob/main/class17/class17.md)
 
