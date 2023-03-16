@@ -62,7 +62,7 @@ ggplot(data=cars) +
 ![](class05_files/figure-commonmark/unnamed-chunk-5-1.png)
 
 I want a trendline to show the relationship between speed and stopping
-distance…
+distance.
 
 ``` r
 ggplot(data=cars) +

@@ -48,7 +48,7 @@ ggplot(data=cars) +
   geom_point()
 ```
 
-I want a trendline to show the relationship between speed and stopping distance...
+I want a trendline to show the relationship between speed and stopping distance.
 
 ```{r}
 ggplot(data=cars) +
