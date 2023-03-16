@@ -1,7 +1,7 @@
 ---
 title: "Class 17: Mini Project"
 author: "Olivia Chu (PID 911)"
-format: pdf
+format: gfm
 ---
 
 The goal of this hands-on mini-project is to examine and compare the COVID-19 vaccination rates around San Diego.
