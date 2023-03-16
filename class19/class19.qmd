@@ -1,7 +1,7 @@
 ---
 title: "Class 19: Investigating Pertussis Resurgence"
 author: "Olivia Chu"
-format: html
+format: gfm
 ---
 
 # Investigating pertussis cases by year
