@@ -14,7 +14,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 9: [Structural Bioinformatics 1](https://github.com/omchu/bimm143_github/blob/main/class09/class09.md)
 
-- Class 10: [Halloween Candy Min-Project](https://github.com/omchu/bimm143_github/blob/main/class10/class10.md)
+- Class 10: [Halloween Candy Mini-Project](https://github.com/omchu/bimm143_github/blob/main/class10/class10.md)
 
 - Class 11: [Genome Informatics](https://github.com/omchu/bimm143_github/blob/main/class11/class11.md)
 
