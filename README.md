@@ -20,16 +20,16 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 12: [Transcriptomics and the analysis of RNA-Seq data](https://github.com/omchu/bimm143_github/blob/main/class12/class12.md)
 
-- Class 13:
+- Class 13: [RNASeq Mini-Project](https://github.com/omchu/bimm143_github/blob/main/class13/class13.md)
 
 - CLass 14: Hands-on with Git and GitHub
 
 - Class 15: Essential UNIX for bioinformatics
 
-- Class 16: 
+- Class 16: [Analyzing sequencing data in the cloud and PCA]()
 
 - Class 17: [Vaccination Rate Mini-Project](https://github.com/omchu/bimm143_github/blob/main/class17/class17.md)
 
 - Class 18: 
 
-- CLass 19: [Pertussis Mini-Project]()
+- Class 19: [Pertussis Mini-Project]()
