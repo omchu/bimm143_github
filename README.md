@@ -20,7 +20,7 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 12: [Transcriptomics and the analysis of RNA-Seq data](https://github.com/omchu/bimm143_github/blob/main/class12/class12.md)
 
-- Class 13:
+- Class 13: [RNASeq Mini-Project](https://github.com/omchu/bimm143_github/blob/main/class13/class13.md)
 
 - CLass 14: Hands-on with Git and GitHub
 
