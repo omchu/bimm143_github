@@ -4,8 +4,8 @@ Olivia Chu
 
 ## R Functions
 
-In this session you will work through the process of developing your own
-function for calculating average grades for fictional students in a
+In this session, you will work through the process of developing your
+own function for calculating average grades for fictional students in a
 fictional class.
 
 We will start with a simplified version of the problem. Grade some

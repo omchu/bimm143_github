@@ -6,7 +6,7 @@ format: gfm
 
 ## R Functions
 
-In this session you will work through the process of developing your own function for calculating average grades for fictional students in a fictional class.
+In this session, you will work through the process of developing your own function for calculating average grades for fictional students in a fictional class.
 
 We will start with a simplified version of the problem. Grade some vectors of student scores. We want to drop the lowest scores and get the average.
 
