@@ -32,3 +32,4 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W23/) at UC San Di
 
 - Class 18: 
 
+- CLass 19: [Pertussis Mini-Project]()
