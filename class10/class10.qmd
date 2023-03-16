@@ -1,7 +1,7 @@
 ---
 title: "Class 10: Halloween Mini-Project"
 author: "Olivia Chu"
-format: pdf
+format: gfm
 ---
 
 In this mini project, we will be exploring FiveThirtyEight's Halloween Candy dataset, which contains the results of their poll asking Americans what is their favorite candy.
