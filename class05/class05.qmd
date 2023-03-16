@@ -57,7 +57,7 @@ ggplot(data=cars) +
   geom_line()
 ```
 
-This is not what we want.
+This isn't what we want.
 
 ```{r}
 bb <- ggplot(data=cars) +

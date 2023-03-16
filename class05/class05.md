@@ -73,7 +73,7 @@ ggplot(data=cars) +
 
 ![](class05_files/figure-commonmark/unnamed-chunk-6-1.png)
 
-This is not what we want.
+This isn’t what we want.
 
 ``` r
 bb <- ggplot(data=cars) +
